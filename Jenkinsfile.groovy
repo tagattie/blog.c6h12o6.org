@@ -25,7 +25,7 @@ pipeline {
                 timestamps {
                     sshagent (credentials: [sshCredential]) {
                         sh """
-rsync -va --delete --stats public/ ${sshUser}@${sshHost}:/usr/local/www/blog/
+rsync -va --delete --stats public/ ${sshUser}@${sshHost}:${contentsPath}
 """
                     }
                 }
