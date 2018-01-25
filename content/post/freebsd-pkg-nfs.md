@@ -21,3 +21,6 @@ sudo rmdir /var/db/pkg/local.sqlite.lock
 ```other
 NFS_WITH_PROPER_LOCKING = true;
 ```
+
+### 参考文献
+- FreeBSD problems and solutions, http://conocimiento.subteni.com/
