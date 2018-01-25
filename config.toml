@@ -1,0 +1,40 @@
+baseURL = "https://blog.c6h12o6.org/"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+title = "C6H12O6"
+theme = "hugo-nuo"
+PygmentsCodeFences = true
+canonifyurls = true
+enableGitInfo = true
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 10
+  identifier = "posts"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 10
+  identifier = "tags"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "Works"
+  weight = 10
+  identifier = "works"
+  url = "https://github.com/tagattie"
+
+[params]
+  author = "Hiroki Tagato"
+  avatar = "/img/avatar.jpg"
+  subtitle = "One of carbonhydrates."
+  paginate = 5
+  email = "tagattie@gmail.com"
+  github = "tagattie"
