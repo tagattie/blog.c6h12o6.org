@@ -1,9 +1,9 @@
----
-title: "FreeBSDでパッケージの更新がうまくいかないとき"
-date: 2018-01-25T15:14:41+09:00
-category: ["freebsd"]
-tags: ["freebsd", "package", "pkg", "nfs"]
----
++++
+title = "FreeBSDでパッケージの更新がうまくいかないとき"
+date = 2018-01-25T15:14:41+09:00
+categories = ["FreeBSD"]
+tags = ["freebsd", "package", "pkg", "nfs"]
++++
 
 FreeBSDでパッケージを更新しようとしたときに、以下のようなエラーが出て、うまくいかないときがあります。
 ```sh
