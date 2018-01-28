@@ -20,14 +20,20 @@ enableGitInfo = true
   url = "/post/"
 
 [[menu.main]]
+  name = "Categories"
+  weight = 20
+  identifier = "categories"
+  url = "/categories/"
+
+[[menu.main]]
   name = "Tags"
-  weight = 10
+  weight = 20
   identifier = "tags"
   url = "/tags/"
 
 [[menu.main]]
   name = "Works"
-  weight = 10
+  weight = 30
   identifier = "works"
   url = "https://github.com/tagattie"
 
