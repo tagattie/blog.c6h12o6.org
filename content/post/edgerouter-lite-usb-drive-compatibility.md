@@ -1,7 +1,6 @@
 +++
 title = "EdgeRouter LiteとUSBメモリの相性"
-date =  2018-01-25T21:10:03+09:00
-draft = true
+date = "2018-01-28T16:57:36+09:00"
 categories = ["Hardware"]
 tags = ["edgerouter", "usb", "compatibility"]
 +++
