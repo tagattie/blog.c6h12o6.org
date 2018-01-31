@@ -1,5 +1,5 @@
 +++
-title = "Edgerouter LiteにFreeBSDをインストール - ビルド編"
+title = "EdgeRouter LiteにFreeBSDをインストール - ビルド編"
 date = "2018-01-30T21:50:19+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "edgerouter"]
