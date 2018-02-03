@@ -21,7 +21,7 @@ dd if=/dev/da0 of=/dev/da1 bs=1m
 U-Boot 1.1.1 (UBNT Build ID: 4670715-gbd7e2d7) (Build time: May 27 2014 - 11:16:22)
 
 BIST check passed.
-UBNT_E100 r1:2, r2:18, f:4/71, serial #: F09FC2123175
+UBNT_E100 r1:2, r2:18, f:4/71, serial #: XXXXXXXXXXXX
 MPR 13-00318-18
 Core clock: 500 MHz, DDR clock: 266 MHz (532 Mhz data rate)
 DRAM:  512 MB
