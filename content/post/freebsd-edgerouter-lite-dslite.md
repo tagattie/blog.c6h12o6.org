@@ -1,7 +1,6 @@
 +++
 title = "EdgeRouter LiteにFreeBSDをインストール - DS-Lite編"
-date = "2018-02-04T18:01:44+09:00"
-draft = true
+date = "2018-02-05"
 categories = ["FreeBSD"]
 tags = ["freebsd", "edgerouter", "dslite", "ipv4", "ipv6"]
 +++
