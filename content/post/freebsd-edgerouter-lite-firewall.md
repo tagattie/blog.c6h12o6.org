@@ -1,7 +1,6 @@
 +++
 title = "EdgeRouter LiteにFreeBSDをインストール - ファイアウォール編"
-date = "2018-02-06T14:19:56+09:00"
-draft = true
+date = "2018-02-07T08:24:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "edgerouter", "firewall", "pf"]
 +++
