@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDに二要素認証(2FA)をセットアップする - サーバ編"
-date = "2018-02-10T16:21:00+09:00"
-draft = true
+date = "2018-02-13T19:49:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "login", "ssh", "2fa", "mfa", "duo"]
 +++
