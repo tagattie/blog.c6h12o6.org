@@ -7,6 +7,7 @@ googleAnalytics = "UA-113639946-1"
 PygmentsCodeFences = true
 canonifyurls = true
 enableGitInfo = true
+enableRobotsTXT = true
 
 [[menu.main]]
   name = "Home"
