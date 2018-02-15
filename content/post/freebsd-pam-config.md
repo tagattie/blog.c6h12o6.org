@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDのPAMの設定を理解する"
-date = "2018-02-15T13:23:41+09:00"
-draft = true
+date = "2018-02-15T20:51:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "pam"]
 +++
