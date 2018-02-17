@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDからAndroid端末にADBで接続する"
-date = "2018-02-14T16:56:34+09:00"
-draft = true
+date = "2018-02-17T12:58:00+09:00"
 categories = ["FreeBSD", "Android"]
 tags = ["freebsd", "android", "adb"]
 +++
