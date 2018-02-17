@@ -5,6 +5,9 @@ categories = ["FreeBSD", "Android"]
 tags = ["freebsd", "android", "adb"]
 +++
 
+**更新: 2018/2/17**  
+fastbootモードおよびリカバリモードでも非ルートユーザでNexus端末にアクセスできるよう、`adb.conf`の内容をアップデートしました。
+
 2015年の2月からメインのスマートフォンとしてNexus 6を使っています。もう3世代前のリファレンス機で、公式のセキュリティアップデートも昨年10月で打ち切られてしまいました。新しい端末に切り替えたいところですが、最新のリファレンス機は日本では発売されていないし、ほかにこれというものが見つからないので、もうしばらくNexus 6を使い続けるつもりです。
 
 OSのバージョンアップはもちろん、月次のセキュリティアップデートもなくなってしまうのはさびしいので、代わりにカスタムROMをインストールすることにしました。本記事では、その準備として、FreeBSDからAndroid端末にADB (Android Debug Bridge)経由で接続するための設定について説明します。
@@ -59,7 +62,8 @@ OSのバージョンアップはもちろん、月次のセキュリティアッ
         ```
     `idVendor`がベンダID、`idProduct`がプロダクトIDの値なので、これを覚えておきます。
 
-    - devdの設定ファイルを追加します。`/usr/local/etc/devd`以下に、例えば`adb.conf`というファイル名で以下の内容を記述します。
+    - devdの設定ファイルを追加します。`/usr/local/etc/devd`以下に、例えば`adb.conf`というファイル名で以下の内容を記述します。  
+    (プロダクトIDが複数記述されているのは、Android端末の起動モードによりプロダクトIDが変化するためです。)
         ```conf
         # Allows non-root users to have access to Android phones via ADB.
         
@@ -68,8 +72,8 @@ OSのバージョンアップはもちろん、月次のセキュリティアッ
             match "system" "USB";
             match "subsystem" "DEVICE";
             match "type" "ATTACH";
-            match "vendor" "0x18d1";     # ベンダIDの値
-            match "product" "0x4ee7";    # プロダクトIDの値
+            match "vendor" "0x18d1";                   # ベンダIDの値
+            match "product" "(0x4ee0|0x4ee2|0x4ee7)";  # プロダクトIDの値
             action "chgrp users /dev/$cdev && chmod 660 /dev/$cdev";
         };
         ```
