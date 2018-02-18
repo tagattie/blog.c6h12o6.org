@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6にAndroid Oreo (8.1)をインストールする - ファイル準備編"
-date = "2018-02-17T16:58:30+09:00"
-draft = true
+date = "2018-02-18T11:49:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "nexus6", "dirtyunicorns"]
 +++
