@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6にAndroid Oreo (8.1)をインストールする - ブートローダアンロック編"
-date = "2018-02-18T19:18:30+09:00"
-draft = true
+date = "2018-02-19T19:37:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "nexus6"]
 +++
