@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6にAndroid Oreo (8.1)をインストールする - フラッシュ編"
-date = "2018-02-19T14:58:30+09:00"
-draft = true
+date = "2018-02-20T19:22:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "nexus6", "dirtyunicorns"]
 +++
