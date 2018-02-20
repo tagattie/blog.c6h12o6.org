@@ -39,7 +39,7 @@ Nexus 6向けのカスタムROMは、[XDA Developers](https://www.xda-developers
     
     [ここ](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)から、MagiskパッケージのファイルとMagisk Manager (Magiskの各種機能を設定、制御するためのAndroidアプリ)のapkファイルをダウンロードします。Downloadsのところから、"Latest Magisk"と"Latest Magisk Manager"をダウンロードしてください。
 
-後のの利便のため、ダウンロードしたファイルを適当なディレクトリにまとめて格納しておきましょう。ダウンロードしたファイル一覧は以下のようになります。
+後の利便のため、ダウンロードしたファイルを適当なディレクトリにまとめて格納しておきましょう。ダウンロードしたファイル一覧は以下のようになります。
 ```shell-session
 $ ls -1
 Magisk-v15.3.zip                                 # Magisk
