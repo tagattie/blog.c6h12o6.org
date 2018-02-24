@@ -1,7 +1,6 @@
 +++
 title = "ホームゲートウェイRS-500KIのセキュリティログをSyslogに出力する"
-date = "2018-02-23T08:50:09+09:00"
-draft = true
+date = "2018-02-24T15:11:00+09:00"
 categories = ["Network"]
 tags = ["homegateway", "rs-500ki", "log", "syslog", "freebsd"]
 +++
