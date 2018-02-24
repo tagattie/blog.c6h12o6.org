@@ -2,7 +2,7 @@
 title = "ホームゲートウェイRS-500KIのセキュリティログをSyslogに出力する"
 date = "2018-02-24T15:11:00+09:00"
 categories = ["Network"]
-tags = ["homegateway", "rs-500ki", "log", "syslog", "freebsd"]
+tags = ["flets", "homegateway", "rs-500ki", "log", "syslog", "freebsd"]
 +++
 
 わが家では、フレッツ光+IIJmioでインターネットに接続しています。ホームゲートウェイ(Home Gateway, HGW)として、NTT東日本から提供された[RS-500KI](http://web116.jp/shop/hikari_r/rs_500ki/rs_500ki_00.html)という機種を使っています。
