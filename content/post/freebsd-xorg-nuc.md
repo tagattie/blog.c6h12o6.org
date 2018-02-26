@@ -1,7 +1,6 @@
 +++
 title = "FreeBSD on Intel NUC (Kaby Lake)でXorgを設定する"
-date = "2018-02-25T18:21:43+09:00"
-draft = true
+date = "2018-02-26T21:04:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "nuc", "kabylake", "xorg", "desktop"]
 +++
