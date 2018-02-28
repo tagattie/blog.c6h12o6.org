@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでオーディオCDをリッピングする - 本編"
-date = "2018-02-27T17:12:47+09:00"
-draft = true
+date = "2018-02-28T21:36:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "desktop", "audio", "cd", "ripping", "asunder"]
 +++
