@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでオーディオCDをリッピングする - CDDB編"
-date = "2018-02-28T16:46:55+09:00"
-draft = true
+date = "2018-03-01T21:32:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "desktop", "audio", "cd", "ripping", "cddb", "editor"]
 +++
