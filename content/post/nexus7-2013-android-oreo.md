@@ -1,7 +1,6 @@
 +++
 title = "Nexus 7 (2013)にAndroid Oreo (8.1)をインストールする"
-date = "2018-03-03T19:50:15+09:00"
-draft = true
+date = "2018-03-04T22:09:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "nexus7", "aicp", "freebsd"]
 +++
