@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでプライベート認証局(CA)を構築する - まえがき"
-date = "2018-03-05T16:56:20+09:00"
-draft = true
+date = "2018-03-05T22:34:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "pki", "ssl", "openssl", "private", "ca"]
 +++
