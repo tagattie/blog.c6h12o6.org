@@ -1,9 +1,12 @@
 +++
 title = "FreeBSDでプライベート認証局(CA)を構築する - 本編"
-date = "2018-03-08T08:10:00+09:00"
+date = "2018-03-08T14:55:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "pki", "ssl", "openssl", "private", "ca"]
 +++
+
+**追記: 2018/3/8**:  
+[OpenSSLクックブック](https://www.lambdanote.com/products/openssl)では、証明書の有効性を確認するための手段として証明書失効リスト(CRL, Certificate Revocation List)やOCSP (Online Certificate Status Protocol)についても、概略説明や設定方法の解説があります。しかし、本記事では個人的規模でのCA運用を想定しており、説明を簡単にするために証明書失効情報の提供手段に関する話題は省きました。
 
 [まえがき](/post/freebsd-private-ca-intro/)では、無料の証明書サービスが提供されている現在、プライベート認証局(CA, Certificate Authority)を構築するケースについて簡単に説明しました。プライベート証明書を使う一つの理由がVPNサーバによるVPNクライアントの認証です。
 
@@ -99,8 +102,8 @@ cd ../signing-ca
 
 以上でプライベートCAの構築は完了です。サーバあるいはクライアントの証明書に署名する準備ができました。
 
-
 ### 参考文献
 1. FreeBSD-Private-CA, https://github.com/tagattie/FreeBSD-Private-CA
 1. プロフェッショナルSSL/TLS, https://www.lambdanote.com/products/tls
 1. PKI関連技術情報, https://www.ipa.go.jp/security/pki/
+1. OpenSSLクックブック, https://www.lambdanote.com/products/openssl
