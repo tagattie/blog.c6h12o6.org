@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDのプライベート認証局(CA)で証明書を失効させる"
-date = "2018-03-09T20:54:00+09:00"
-draft = true
+date = "2018-03-10T21:44:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "pki", "ssl", "openssl", "private", "ca", "certificate"]
 +++
