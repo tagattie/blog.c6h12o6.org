@@ -1,9 +1,15 @@
 +++
 title = "Nexus 6にAndroid Oreo (8.1)をインストールする - フラッシュ編"
 date = "2018-02-20T19:22:00+09:00"
+lastmod = "2018-03-11T22:50:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "nexus6", "dirtyunicorns"]
 +++
+
+**追記: 2018/3/11**  
+Dirty Unicorns 12 (Android Oreo 8.1)のオフィシャル版がリリースされました。最新版のファイル一覧については、[こちらの記事](/post/dirty-unicorns-12/)をご参照ください。
+
+___
 
 [ブートローダアンロック編](/post/nexus6-android-oemunlock/)では、カスタムROMのインストール準備として必要な、Nexus 6のブートローダアンロック手順を説明しました。本記事では、実際にカスタムROMをNexus 6のフラッシュメモリに書き込む(フラッシュする)手順について説明します。
 
