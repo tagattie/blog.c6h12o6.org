@@ -1,7 +1,6 @@
 +++
 title = "Dirty Unicorns 12 (Android Oreo 8.1)のオフィシャル版がリリース"
-date = "2018-03-11T21:55:54+09:00"
-draft = true
+date = "2018-03-11T22:35:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "dirtyunicorns", "opengapps", "nexus6"]
 +++
