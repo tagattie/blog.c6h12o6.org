@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでVPNサーバを構築する - ネットワーク設計編"
-date = "2018-03-12T08:13:00+09:00"
-draft = true
+date = "2018-03-13T19:34:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "vpn", "server", "openvpn", "wifi"]
 +++
