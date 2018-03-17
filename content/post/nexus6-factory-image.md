@@ -1,7 +1,6 @@
 +++
 title = "ファクトリイメージを使ってNexus 6を工場出荷状態に戻す"
-date = "2018-03-17T17:30:41+09:00"
-draft = true
+date = "2018-03-17T21:45:00+09:00"
 categories = ["Android"]
 tags = ["android", "nexus6", "factory", "reset", "initialize", "freebsd"]
 +++
