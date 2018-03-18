@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでVPNサーバを構築する - OpenVPNクライアント(Android)編"
-date = "2018-03-17T20:11:02+09:00"
-draft = true
+date = "2018-03-18T21:37:00+09:00"
 categories = ["Android"]
 tags = ["freebsd", "vpn", "server", "openvpn", "wifi", "android", "client"]
 +++
