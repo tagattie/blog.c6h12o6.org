@@ -1,5 +1,5 @@
 +++
-title = "FreeBSDでVPNサーバを構築する - OpenVPNクライアント編"
+title = "FreeBSDでVPNサーバを構築する - OpenVPNクライアント(Windows)編"
 date = "2018-03-15T21:11:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "vpn", "server", "openvpn", "wifi", "windows", "client"]
