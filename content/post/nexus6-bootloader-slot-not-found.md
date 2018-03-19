@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6の\"(bootloader) slot-count: not found\"は気にしなくてよい(と思う)"
-date = "2018-03-19T20:09:31+09:00"
-draft = true
+date = "2018-03-19T21:13:00+09:00"
 categories = ["Android"]
 tags = ["android", "nexus6", "fastboot", "bootloader", "slot", "seamless", "update"]
 +++
