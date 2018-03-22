@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDからWindows 10へリモートデスクトップで接続する"
-date = "2018-03-22T11:07:54+09:00"
-draft = true
+date = "2018-03-22T16:25:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "windows", "rdp", "vnc", "remote", "desktop", "remmina"]
 +++
