@@ -1,7 +1,6 @@
 +++
 title = "Bhyve on FreeBSDにFreeBSD-CURRENTをUEFIモードでインストールする - 本編"
-date = "2018-03-22T09:38:47+09:00"
-draft = true
+date = "2018-03-24T23:34:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "bhyve", "vm", "kernel", "virtualization", "current", "uefi", "vm-bhyve", "vnc", "remmina"]
 +++
