@@ -1,7 +1,6 @@
 +++
 title = "Dirty Unicorns 12 (Android Oreo 8.1)の週次ビルド(Weekly Build)が開始"
-date = "2018-03-25T17:29:06+09:00"
-draft = true
+date = "2018-03-25T21:13:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "dirtyunicorns", "weekly", "build", "nexus6"]
 +++
