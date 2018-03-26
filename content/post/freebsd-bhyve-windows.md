@@ -1,7 +1,6 @@
 +++
 title = "Bhyve on FreeBSDにWindows 10 Insider Previewをインストールする"
-date = "2018-03-24T23:57:06+09:00"
-draft = true
+date = "2018-03-26T19:46:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "bhyve", "vm", "virtualization", "windows", "windows10"]
 +++
