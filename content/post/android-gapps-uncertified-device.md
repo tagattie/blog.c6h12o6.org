@@ -1,7 +1,6 @@
 +++
 title = "Google非認証端末やカスタムROMでGoogle Appsはブロックされるのか?"
-date = "2018-03-27T15:52:20+09:00"
-draft = true
+date = "2018-03-27T21:03:00+09:00"
 categories = ["Android"]
 tags = ["android", "gapps", "custom", "rom", "uncertified", "device", "nexus", "nexus7", "nexus6", "jelly"]
 +++
