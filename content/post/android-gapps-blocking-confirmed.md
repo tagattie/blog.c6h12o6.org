@@ -1,7 +1,6 @@
 +++
 title = "Googleが非認証端末やカスタムROMでのGoogle Appsブロックを認める(対応策の更新あり)"
-date = "2018-03-28T15:07:52+09:00"
-draft = true
+date = "2018-03-28T19:47:00+09:00"
 categories = ["Android"]
 tags = ["android", "gapps", "custom", "rom", "uncertified", "device"]
 +++
