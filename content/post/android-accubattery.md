@@ -1,7 +1,6 @@
 +++
 title = "AccuBatteryでAndroid端末のバッテリ劣化状況を把握する"
-date = "2018-03-19T17:21:44+09:00"
-draft = true
+date = "2018-03-30T19:35:00+09:00"
 categories = ["Android"]
 tags = ["android", "app", "accubattery", "battery", "life", "status", "wear", "nexus6"]
 +++
