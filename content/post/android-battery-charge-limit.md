@@ -1,7 +1,6 @@
 +++
 title = "Battery Charge LimitでAndroid端末のバッテリ寿命を伸ばす"
-date = "2018-03-19T15:10:53+09:00"
-draft = true
+date = "2018-04-01T21:31:00+09:00"
 categories = ["Android"]
 tags = ["android", "app", "battery", "charge", "limit", "life", "prolong", "nexus6"]
 +++
