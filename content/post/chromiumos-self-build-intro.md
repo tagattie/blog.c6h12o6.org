@@ -1,7 +1,6 @@
 +++
 title = "Chromium OSでバッテリ駆動時間は伸びるのか? NEC LaVie Zで試す - まえがき"
-date = "2018-04-01T14:51:28+09:00"
-draft = true
+date = "2018-04-02T20:17:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "chromeos", "nec", "lavie", "chromebook", "battery", "neverware", "cloudready"]
 +++
