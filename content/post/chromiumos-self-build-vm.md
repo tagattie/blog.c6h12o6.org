@@ -1,9 +1,15 @@
 +++
 title = "Chromium OSでバッテリ駆動時間は伸びるのか? NEC LaVie Zで試す - ビルド用VM構築編"
 date = "2018-04-03T19:55:00+09:00"
+lastmod = "2018-04-04T07:12:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "chromeos", "nec", "lavie", "chromebook", "battery", "freebsd", "bhyve", "ubuntu"]
 +++
+
+**追記: 2018/4/4**  
+ビルド用VMの仮想ディスクのサイズは64GBでは足りませんでしたので、改めて512GBとしました。
+
+___
 
 [まえがき](/post/chromiumos-self-build-intro/)では、Chromium OSを自分でビルドしてLaVie Zで試してみよう、と思い立った経緯について紹介しました。また、PCでお手軽にChromium OSを試せる、Neverware社の[CloudReady](https://www.neverware.com/freedownload/)についても触れました。
 
@@ -12,10 +18,10 @@ Chromium OSをビルドする環境について、[Chromium OS Developer Guide](
 以下、本記事ではbhyve上にUbuntu 14.04をセットアップする手順を説明します。仮想スイッチを作成するところまでは、[先日の記事](/post/freebsd-bhyve-freebsd-install/)を参考にしてください。
 
 ### VMの作成とVM設定の調整
-まず、VMを作成します。ここではVM名を`cros-build`としました。また、ディスクサイズは64GBにしています。
+まず、VMを作成します。ここではVM名を`cros-build`としました。また、ディスクサイズは~~64GB~~512GBにしています。
 
 ``` shell
-vm create -t ubuntu -s 64G cros-build
+vm create -t ubuntu -s 512G cros-build
 ```
 
 デフォルトの`ubuntu`テンプレートはかなり控えめにリソースが設定されており、Chromium OSをビルドするには不足です。そこで、十分にリソースが割り当てられるよう、設定を調整します。
