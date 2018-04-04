@@ -1,9 +1,15 @@
 +++
 title = "Googleが非認証端末やカスタムROMでのGoogle Appsブロックを認める(対応策の更新あり)"
 date = "2018-03-28T19:47:00+09:00"
+lastmod = "2018-04-04T20:04:00+09:00"
 categories = ["Android"]
 tags = ["android", "gapps", "custom", "rom", "uncertified", "device"]
 +++
+
+**追記: 2018/4/4**  
+[まとめ記事](/post/android-gapps-uncertified-device-2/)をポストしました。最新情報についてはこちらをご参照ください。
+
+___
 
 [昨日の記事](/post/android-gapps-uncertified-device/)で、「Google非認証端末やカスタムROMをインストールした端末でのGoogle Appsの使用がブロックされ始めた」と[XDA Developersが報じた](https://www.xda-developers.com/google-blocks-gapps-uncertified-devices-custom-rom-whitelist/)こと、およびこのブロックを回避する方法を紹介しました。さいわい、手もとにあるGoogle非認証端末やカスタムROM端末ではまだブロックされていませんが、この種の端末を使っている立場としては見逃せないところです。
 

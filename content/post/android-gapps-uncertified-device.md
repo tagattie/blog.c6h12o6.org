@@ -1,9 +1,15 @@
 +++
 title = "Google非認証端末やカスタムROMでGoogle Appsはブロックされるのか?"
 date = "2018-03-27T21:03:00+09:00"
+lastmod = "2018-04-04T20:03:00+09:00"
 categories = ["Android"]
 tags = ["android", "gapps", "custom", "rom", "uncertified", "device", "nexus", "nexus7", "nexus6", "jelly"]
 +++
+
+**追記: 2018/4/4**  
+[まとめ記事](/post/android-gapps-uncertified-device-2/)をポストしました。最新情報についてはこちらをご参照ください。
+
+___
 
 [XDA Developersの記事](https://www.xda-developers.com/google-blocks-gapps-uncertified-devices-custom-rom-whitelist/)で、Googleが非認証端末でのGoogle Apps (Playストアをはじめとする基本的アプリ群)の使用をブロックし始めたと報じられました。(XDA Developersをもとにした日本語記事は[こちら](https://www.dream-seed.com/weblog/news/google-block-gapps-uncertified-device))
 
