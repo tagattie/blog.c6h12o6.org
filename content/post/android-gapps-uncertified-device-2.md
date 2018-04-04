@@ -1,7 +1,6 @@
 +++
 title = "Google非認証端末やカスタムROMでのGoogle Appsブロック対策まとめ"
-date = "2018-04-04T18:40:29+09:00"
-draft = true
+date = "2018-04-04T20:06:00+09:00"
 categories = ["Android"]
 tags = ["android", "gapps", "custom", "rom", "uncertified", "device"]
 +++
