@@ -1,9 +1,17 @@
 +++
 title = "Chromium OSでバッテリ駆動時間は伸びるのか? NEC LaVie Zで試す - ビルド実行編"
 date = "2018-04-07T23:14:00+09:00"
+lastmod = "2018-04-12T07:42:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "chromeos", "nec", "lavie", "chromebook", "battery", "ubuntu"]
 +++
+
+**追記: 2018/4/12**  
+ソースコードのバージョンについてですが、最新のstablizeブランチをビルドするよりも、以下のサイトで"Stable Channel Update for Chrome OS"というタイトルがついた最新の記事をチェックし、その記事で示されているブランチをビルドするほうがよさそうです。
+
+- [Chrome Releases (Google Chrome Team)](https://chromereleases.googleblog.com/)
+
+___
 
 [ビルド環境設定編](/post/chromiumos-self-build-env/)では、Ubuntu 14.04上でChromium OSをビルドするための環境設定について説明しました。Google API利用の準備がなかなか大変でしたが、なんとか終えることができました。本記事では、いよいよChromium OSのソースコードを取得してビルドを行ない、起動のためのイメージをUSBメモリに書き込むまでの流れを見ていきます。
 
