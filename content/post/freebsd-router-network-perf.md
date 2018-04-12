@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDの通信性能が悪いと感じたらLRO, TSOオプションをオフにしてみよう"
-date = "2018-04-11T20:00:55+09:00"
-draft = true
+date = "2018-04-12T19:51:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "network", "poor", "performance", "speed", "ifconfig", "option", "lro", "tso"]
 +++
