@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでL2TP/IPSec VPNサーバを構築する - まえがき"
-date = "2018-04-16T19:58:13+09:00"
-draft = true
+date = "2018-04-17T21:11:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "vpn", "l2tp", "ipsec", "chromiumos", "chromeos", "chromebook"]
 +++
