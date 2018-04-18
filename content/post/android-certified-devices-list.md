@@ -1,7 +1,6 @@
 +++
 title = "Google認証済みAndroid端末のリストが公開"
-date = "2018-04-18T21:16:58+09:00"
-draft = true
+date = "2018-04-18T21:46:00+09:00"
 categories = ["Android"]
 tags = ["android", "certified", "device"]
 +++
