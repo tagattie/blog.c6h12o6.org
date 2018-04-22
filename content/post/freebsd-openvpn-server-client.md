@@ -176,3 +176,8 @@ C:\Users\XXXXXX>ping 172.16.0.1
 
 ### 参考文献
 1. OpenVPN, https://openvpn.net/
+
+### イメージクレジット
+本記事において、Windowsのデスクトップ壁紙として使用している画像は、ロシア・キーロフスク在住の[Fox Grom氏](https://vk.com/id153817456)によるものです。氏のアルバムは以下のURLで閲覧できます。
+
+- [Fox's photos (VK)](https://vk.com/albums153817456)

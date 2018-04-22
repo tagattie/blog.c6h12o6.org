@@ -77,3 +77,8 @@ remmina
 1. Remmina - A FEATURE RICH REMOTE DESKTOP APPLICATION FOR LINUX AND OTHER UNIXES, https://www.remmina.org/
 1. Windows 10 エディション別 比較表, https://www.microsoft.com/ja-jp/windows/compare
 1. LinuxからWindows10へリモートデスクトップ(Remmina), https://gato.intaa.net/linux/remmina
+
+### イメージクレジット
+本記事において、Windowsのデスクトップ壁紙として使用している画像は、ロシア・キーロフスク在住の[Fox Grom氏](https://vk.com/id153817456)によるものです。氏のアルバムは以下のURLで閲覧できます。
+
+- [Fox's photos (VK)](https://vk.com/albums153817456)
