@@ -1,9 +1,19 @@
 +++
 title = "FreeBSDでL2TP/IPSec VPNサーバを構築する - NAT・ファイアウォール編"
 date = "2018-04-21T21:26:00+09:00"
+lastmod = "2018-04-22T17:14:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "vpn", "l2tp", "ipsec", "chromiumos", "chromeos", "chromebook"]
 +++
+
+**追記: 2018/4/22**  
+uRPFが失敗したパケットを拒否すると、VPNクライアントにもともとプライベートアドレスが割り当てられている場合に通信ができなくなります。これは困りますので、以下の行を設定から削除しました。
+
+``` conf
+block in log quick from urpf-failed    # uRPFが失敗したパケットは拒否
+```
+
+___
 
 [L2TP編](/post/freebsd-l2tp-ipsec-l2tp/)では、L2TPサーバMPDのインストールと設定を行ないました。strongSwanとMPDが起動している状態で、VPNクライアントからの接続が行なわれると、クライアント―サーバ間の安全な通信路であるL2TP/IPSecトンネルが確立します。
 
@@ -79,7 +89,6 @@ sysrc gateway_enable=YES    # IPv4パケット転送の有効化
     
     block log all                                               # 基本はパケットをすべて拒否
     antispoof log for $ext_if                                   # 外部インターフェイスでのアンチスプーフ処理を有効化
-    block in log quick from urpf-failed                         # uRPFが失敗したパケットは拒否
     block in quick on $ext_if from any to { <martians4> }       # 外部インターフェイスへの到達不能アドレス宛て入パケットは拒否
     pass quick on $trusted_ifs                                  # 信頼インターフェイスについてはすべて許可
     pass quick on $ext_if proto icmp                            # 外部インターフェイスのICMPパケットは許可
