@@ -1,7 +1,6 @@
 +++
 title = "あなたのVPNクライアント、お漏らししていませんか?"
-date = "2018-04-23T15:05:21+09:00"
-draft = true
+date = "2018-04-23T21:18:00+09:00"
 categories = ["Network"]
 tags = ["windows", "openvpn", "dns", "leak", "leakage"]
 +++
