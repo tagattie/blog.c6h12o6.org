@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでパッケージデータベースが破損した、あるいは削除してしまったときの復旧手順"
-date = "2018-04-25T16:20:48+09:00"
-draft = true
+date = "2018-04-25T19:46:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "package", "database", "delete", "corrupt", "pkg", "sqlite", "backup", "restore", "recovery"]
 +++
