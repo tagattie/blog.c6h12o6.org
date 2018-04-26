@@ -1,9 +1,18 @@
 +++
 title = "FreeBSDでパッケージデータベースが破損した、あるいは削除してしまったときの復旧手順"
 date = "2018-04-25T19:46:00+09:00"
+lastmod = "2018-04-26T20:15:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "package", "database", "delete", "corrupt", "pkg", "sqlite", "backup", "restore", "recovery"]
 +++
+
+**追記: 2018/4/26**  
+FreeBSDとpkgのバージョンを記載し忘れていました。下記事象が発生したのは、以下のバージョンの組み合わせです。
+
+- FreeBSD - 11.1-RELEASE-p9
+- pkg - 1.10.5
+
+___
 
 FreeBSDには、さまざまなソフトウェアを手軽に使えるよう、ビルド済みのバイナリパッケージが用意されています。バイナリパッケージのインストール、更新、および削除には`pkg(8)`コマンドを使用します。
 
