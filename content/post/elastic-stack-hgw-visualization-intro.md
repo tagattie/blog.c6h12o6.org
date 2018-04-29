@@ -1,8 +1,9 @@
 +++
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - まえがき"
 date = "2018-04-28T23:04:00+09:00"
+lastmod = "2018-04-29T10:57:00+09:00"
 categories = ["Network"]
-tags = ["freebsd", "elasticstack", "elasticsearch", "kibana", "logstash", "beats", "filebeat", "homegateway", "rs-500ki"]
+tags = ["freebsd", "elasticstack", "elasticsearch", "kibana", "logstash", "beats", "filebeat", "homegateway", "rs-500ki", "log", "visualization"]
 +++
 
 [先日の記事](/post/home-gateway-rs500ki-syslog/)で、NTTの[ホームゲートウェイRS-500KI](http://web116.jp/shop/hikari_r/rs_500ki/rs_500ki_00.html)のログを取得して、syslogに出力するプログラムを紹介しました。その後、本プログラムを動かし続けてきた結果、だいぶんログが蓄積されました。そこで、収集したログの可視化をそろそろ行なってみたいと思います。
