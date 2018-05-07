@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - 設定編(Logstash)"
-date = "2018-04-29T06:35:48+09:00"
-draft = true
+date = "2018-05-07T21:14:00+09:00"
 categories = ["Network"]
 tags = ["freebsd", "elasticstack", "logstash", "grok", "filebeat", "homegateway", "rs-500ki", "log", "vizualization"]
 +++
