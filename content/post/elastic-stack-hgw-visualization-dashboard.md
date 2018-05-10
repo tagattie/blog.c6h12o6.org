@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - ダッシュボード編"
-date = "2018-05-07T21:26:41+09:00"
-draft = true
+date = "2018-05-10T20:38:00+09:00"
 categories = ["Network"]
 tags = ["freebsd", "elasticstack", "kibana", "dashboard", "homegateway", "rs-500ki", "log", "vizualization"]
 +++
