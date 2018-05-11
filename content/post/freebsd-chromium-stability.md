@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでChromium (Chrome)をできるだけ安定して使う"
-date = "2018-05-11T15:01:08+09:00"
-draft = true
+date = "2018-05-11T20:27:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "chromium", "chrome", "browser", "hang", "stability"]
 +++
