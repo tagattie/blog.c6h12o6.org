@@ -1,7 +1,6 @@
 +++
 title = "KinScreenでAndroid端末のスクリーンタイムアウトを自在に制御する"
-date = "2018-05-12T19:59:38+09:00"
-draft = true
+date = "2018-05-13T21:18:00+09:00"
 categories = ["Android"]
 tags = ["android", "kinscreen", "screen", "timeout", "sleep", "backlight", "control", "sensor"]
 +++
