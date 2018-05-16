@@ -2,7 +2,7 @@
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - インストール編(Beats)"
 date = "2018-05-02T19:12:00+09:00"
 categories = ["Network"]
-tags = ["freebsd", "elasticstack", "beats", "filebeat", "homegateway", "rs-500ki", "log", "vizualization"]
+tags = ["freebsd", "elasticstack", "beats", "filebeat", "homegateway", "rs-500ki", "log", "visualization"]
 +++
 
 [インストール編(Logstash)](/post/elastic-stack-hgw-visualization-install-logstash/)では、Logstashのインストールと動作確認のための設定を行ないました。Elasticスタックのインストールと、その後の可視化システムの構築の流れを再掲します。(下図)

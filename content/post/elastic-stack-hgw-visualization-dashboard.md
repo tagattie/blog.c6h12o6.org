@@ -2,7 +2,7 @@
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - ダッシュボード編"
 date = "2018-05-10T20:38:00+09:00"
 categories = ["Network"]
-tags = ["freebsd", "elasticstack", "kibana", "dashboard", "homegateway", "rs-500ki", "log", "vizualization"]
+tags = ["freebsd", "elasticstack", "kibana", "dashboard", "homegateway", "rs-500ki", "log", "visualization"]
 +++
 
 [設定まとめ編](/post/elastic-stack-hgw-visualization-config-summary/)では、ログ可視化システムを構成する各ソフトウェアコンポーネントの設定をまとめて示しました。その後、各コンポーネントを起動して本格的な運用を開始しました。Elasticスタックのインストールと、その後の可視化システムの構築の流れを再掲します。(下図)

@@ -2,7 +2,7 @@
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - インストール編(Elasticsearch)"
 date = "2018-04-29T22:08:00+09:00"
 categories = ["Network"]
-tags = ["freebsd", "elasticstack", "elasticsearch", "homegateway", "rs-500ki", "log", "vizualization"]
+tags = ["freebsd", "elasticstack", "elasticsearch", "homegateway", "rs-500ki", "log", "visualization"]
 +++
 
 [まえがき](/post/elastic-stack-hgw-visualization-intro/)では、ログデータの収集・可視化プラットフォームである[Elasticスタック](https://www.elastic.co/products)について簡単に紹介しました。今回からは、Elasticスタックを用いてホームゲートウェイのログを可視化するための、具体的な手順について説明していきます。

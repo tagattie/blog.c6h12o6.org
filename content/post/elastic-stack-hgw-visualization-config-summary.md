@@ -2,7 +2,7 @@
 title = "FreeBSDとElasticスタックでホームゲートウェイRS-500KIのログを可視化する - 設定まとめ編"
 date = "2018-05-08T19:50:00+09:00"
 categories = ["Network"]
-tags = ["freebsd", "elasticstack", "elasticsearch", "kibana", "logstash", "beats", "filebeat", "homegateway", "rs-500ki", "log", "vizualization"]
+tags = ["freebsd", "elasticstack", "elasticsearch", "kibana", "logstash", "beats", "filebeat", "homegateway", "rs-500ki", "log", "visualization"]
 +++
 
 [設定編(Logstash)](/post/elastic-stack-hgw-visualization-config-logstash/)では、Logstashによるログデータ加工のための設定と動作確認を行ないました。Elasticスタックのインストールと、その後の可視化システムの構築の流れを再掲します。(下図)
