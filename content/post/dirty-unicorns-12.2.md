@@ -1,7 +1,6 @@
 +++
 title = "Dirty Unicorns 12.2 (Android Oreo 8.1)がリリース"
-date = "2018-05-16T16:16:05+09:00"
-draft = true
+date = "2018-05-16T20:10:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "dirtyunicorns", "custom", "rom", "nexus6", "smartpixel"]
 +++
