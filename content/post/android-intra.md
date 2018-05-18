@@ -1,7 +1,6 @@
 +++
 title = "IntraアプリでAndroid PのプライベートDNS機能をひと足先に試す"
-date = "2018-05-18T14:57:47+09:00"
-draft = true
+date = "2018-05-18T20:22:00+09:00"
 categories = ["Android"]
 tags = ["android", "security", "intra", "dns", "tls", "https", "private"]
 +++
