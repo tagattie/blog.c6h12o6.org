@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.c6h12o6.org/sitemap.xml
