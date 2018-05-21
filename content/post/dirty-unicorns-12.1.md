@@ -1,9 +1,15 @@
 +++
 title = "Dirty Unicorns 12.1 (Android Oreo 8.1)がリリース"
 date = "2018-04-09T21:18:00+09:00"
+lastmod = "2018-05-21T22:14:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "dirtyunicorns", "nexus6"]
 +++
+
+**追記: 2018/5/21**  
+Dirty Unicorns 12.2 (Android Oreo 8.1)がリリースされました。最新版の情報については、[こちらの記事](/post/dirty-unicorns-12.2/)をご参照ください。
+
+___
 
 2018/4/6付で[Dirty Unicorns](https://dirtyunicorns.com/) 12.1 (Android Oreo 8.1)がリリースされました。12.0からのマイナーアップデート版です。
 

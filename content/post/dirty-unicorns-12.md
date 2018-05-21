@@ -1,9 +1,15 @@
 +++
 title = "Dirty Unicorns 12 (Android Oreo 8.1)のオフィシャル版がリリース"
 date = "2018-03-11T22:35:00+09:00"
+lastmod = "2018-05-21T22:14:00+09:00"
 categories = ["Android"]
 tags = ["android", "oreo", "dirtyunicorns", "opengapps", "nexus6"]
 +++
+
+**追記: 2018/5/21**  
+Dirty Unicorns 12.2 (Android Oreo 8.1)がリリースされました。最新版の情報については、[こちらの記事](/post/dirty-unicorns-12.2/)をご参照ください。
+
+___
 
 先日、Nexus 6にAndroid Oreo (8.1)をインストールする手順を紹介しました。このときに使ったのが[Dirty Unicorns](https://dirtyunicorns.com/)というカスタムROMです。
 
