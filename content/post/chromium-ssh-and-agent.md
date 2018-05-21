@@ -1,7 +1,6 @@
 +++
 title = "Chromium OS (Chrome)のSecure ShellでSSH Agentを使う"
-date = "2018-05-21T14:58:36+09:00"
-draft = true
+date = "2018-05-21T22:04:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "chromeos", "chromebook", "secure", "shell", "ssh", "agent", "extension"]
 +++
