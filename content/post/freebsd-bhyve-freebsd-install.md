@@ -1,9 +1,23 @@
 +++
 title = "Bhyve on FreeBSDにFreeBSD-CURRENTをUEFIモードでインストールする - 本編"
 date = "2018-03-24T23:34:00+09:00"
+lastmod = "2018-05-21T21:55:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "bhyve", "vm", "kernel", "virtualization", "current", "uefi", "vm-bhyve", "vnc", "remmina"]
 +++
+
+**追記: 2018/5/21**  
+本記事の最後に「再起動するとブートローダのところで止まる」と書きましたが、UEFIファームウェアパッケージを最新のものに更新することで、FreeBSD-CURRENTが正常に起動することを確認しました。パッケージのバージョンは以下のとおりです。
+
+``` shell-session
+$ pkg info | grep uefi
+uefi-edk2-bhyve-20180318       UEFI-EDK2 firmware for bhyve
+uefi-edk2-bhyve-csm-20180318   UEFI-EDK2 firmware for bhyve with CSM
+```
+
+もし、同様の不具合に遭遇した場合、パッケージの更新で状況が改善する可能性がありますので、試してみるとよいと思います。
+
+___
 
 [まえがき](/post/freebsd-bhyve-freebsd-intro/)では、FreeBSDが提供する仮想化機構について簡単に説明しました。また、仮想化機構の一つであるbhyveを用いて仮想マシン(Virtual Machine, VM)を管理するためのシェルスクリプト、[vm-bhyve](https://github.com/churchers/vm-bhyve)についてもあわせて紹介しました。
 
