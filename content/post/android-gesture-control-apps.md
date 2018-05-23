@@ -1,7 +1,6 @@
 +++
 title = "iPhone X/Android P風のジェスチャー操作を可能にするアプリ3つを比較する"
-date = "2018-05-23T16:55:46+09:00"
-draft = true
+date = "2018-05-23T21:28:00+09:00"
 categories = ["Android"]
 tags = ["android", "iphone", "gesture", "navigation", "operation", "control", "oneplus", "adb"]
 +++
