@@ -1,7 +1,6 @@
 +++
 title = "ScrcpyでFreeBSDからAndroid端末の画面を表示・操作する"
-date = "2018-05-24T21:13:15+09:00"
-draft = true
+date = "2018-05-27T21:38:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "android", "scrcpy", "screen", "display", "control", "mirroring", "remote"]
 +++
