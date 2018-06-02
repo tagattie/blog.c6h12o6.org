@@ -1,7 +1,6 @@
 +++
 title = "Pwned-checkでパスワードが流出していないかチェックする"
-date = "2018-05-31T18:31:31+09:00"
-draft = true
+date = "2018-06-02T21:28:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "pwned-check", "password", "leak", "leakage", "check", "chromium", "chrome", "passprotect", "firefox"]
 +++
