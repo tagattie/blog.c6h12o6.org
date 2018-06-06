@@ -1,7 +1,6 @@
 +++
 title = "FreeBSD on Intel NUC (Kaby Lake)でグラフィックス・アクセラレーションを使う"
-date = "2018-06-05T21:32:47+09:00"
-draft = true
+date = "2018-06-06T21:13:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "nuc", "kabylake", "xorg", "desktop", "accelerated", "graphics", "acceleration", "drm", "kernel", "module"]
 +++
