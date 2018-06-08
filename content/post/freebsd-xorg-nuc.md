@@ -1,9 +1,15 @@
 +++
 title = "FreeBSD on Intel NUC (Kaby Lake)でXorgを設定する"
 date = "2018-02-26T21:04:00+09:00"
+lastmod = "2018-06-08T19:53:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "nuc", "kabylake", "xorg", "desktop"]
 +++
+
+**追記: 2018/6/8**  
+FreeBSD 11.2からは、Kaby Lake世代でもグラフィックス・アクセラレーションが使用可能になります。ご興味のあるかたは、[こちらの記事](/post/freebsd-xorg-drm-nuc/)をご参照ください。
+
+___
 
 自宅のメインデスクトップ機でFreeBSDを使っています。これまで、Zotac社のミニベアボーン[ZBOX nano ID64](https://www.ask-corp.jp/products/zotac/mini-pc/zbox-nano/zbox-nano-id64.html) (Ivy Bridge世代)を使っていたのですが、電源が突然落ちる事象に見舞われるようになりました。そこで、代替機としてIntel社のNUCキット[NUC7i5BNH](https://www.intel.co.jp/content/www/jp/ja/products/boards-kits/nuc/kits/nuc7i5bnh.html) (Kaby Lake世代)を購入しました。
 
