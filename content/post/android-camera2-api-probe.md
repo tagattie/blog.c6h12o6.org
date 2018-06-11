@@ -1,9 +1,8 @@
 +++
 title = "Camera2 API ProbeでAndroid端末のカメラAPIサポートレベルを確認する"
 date = "2018-06-11T18:23:02+09:00"
-draft = true
 categories = ["Android"]
-tags = ["android", "camera", "camera2", "api", "probe"]
+tags = ["android", "camera", "camera2", "api", "probe", "support", "level", "manual"]
 +++
 
 ハードウェアのスペックを調べたり、比較したりするのって楽しいですよね。Android端末を入手すると、[AIDA64](https://play.google.com/store/apps/details?id=com.finalwire.aida64)や[CPU-Z](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z)などのアプリをインストールして、必ずハードウェア詳細を確認してしまいます。
