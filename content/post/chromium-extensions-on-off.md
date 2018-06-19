@@ -1,7 +1,6 @@
 +++
 title = "Chrome (Chromium)の拡張機能をワンクリックでオン/オフする"
-date = "2018-06-18T18:34:36+09:00"
-draft = true
+date = "2018-06-19T20:27:00+09:00"
 categories = ["WorldWideWeb"]
 tags = ["chrome", "chromium", "browser", "extension", "1-click", "enable", "disable"]
 +++
