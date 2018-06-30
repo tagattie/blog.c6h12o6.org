@@ -1,7 +1,6 @@
 +++
 title = "ローカルのChromiumソースを使ってChromium OSをビルドする"
-date = "2018-06-24T14:32:34+09:00"
-draft = true
+date = "2018-06-30T21:41:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "chromeos", "chromebook", "chromium", "chrome", "local", "source", "nec", "lavie"]
 +++
