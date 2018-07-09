@@ -1,7 +1,6 @@
 +++
 title = "Chrome OS (Chromium OS)のシステム情報/リソース状況を確認する"
-date = "2018-07-09T17:51:52+09:00"
-draft = true
+date = "2018-07-09T21:07:00+09:00"
 categories = ["WorldWideWeb"]
 tags = ["chrome", "chromium", "chromeos", "chromiumos", "chromebook", "system", "information"]
 +++
