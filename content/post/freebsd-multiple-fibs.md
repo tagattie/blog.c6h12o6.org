@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDで複数のルーティングテーブルを使い分ける"
-date = "2018-07-13T17:25:32+09:00"
-draft = true
+date = "2018-07-15T21:27:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "multiple", "routing", "table", "fib", "setfib", "ipoe", "dslite", "pppoe"]
 +++
