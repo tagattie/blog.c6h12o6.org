@@ -1,6 +1,7 @@
 +++
 title = "FreeBSDで複数のルーティングテーブルを使い分ける"
 date = "2018-07-15T21:27:00+09:00"
+lastmod = "2018-07-18T20:38:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "multiple", "routing", "table", "fib", "setfib", "ipoe", "dslite", "pppoe"]
 +++
@@ -137,7 +138,7 @@ setfib 1 service sshd onestart
     {{< highlight shell >}}
 #! /bin/sh
 # Setup an alternative routing table (fib 1)
-setfib 1 route add -net default 192.168.1.1
+setfib 1 route add -net default 192.168.0.1
 # Start service(s) which use(s) the alternative routing table
 setfib 1 service apache24 onestart
 setfib 1 service sshd onestart
