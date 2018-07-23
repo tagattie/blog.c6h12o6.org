@@ -1,7 +1,7 @@
 +++
 title = "FreeBSDで複数のルーティングテーブルを使い分ける"
 date = "2018-07-15T21:27:00+09:00"
-lastmod = "2018-07-18T20:38:00+09:00"
+lastmod = "2018-07-20T20:25:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "multiple", "routing", "table", "fib", "setfib", "ipoe", "dslite", "pppoe"]
 +++
@@ -133,7 +133,7 @@ setfib 1 service sshd onestart
 
 の手順がマシン起動時に自動的に実行されるよう、`/etc/rc.local`を作成します。
 
-- `/etc/local`
+- `/etc/rc.local`
 
     {{< highlight shell >}}
 #! /bin/sh
