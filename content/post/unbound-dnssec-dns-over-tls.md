@@ -1,7 +1,6 @@
 +++
 title = "UnboundでDNSSEC & DNS over TLS対応のキャッシュDNSサーバを構築する"
-date = "2018-07-19T16:22:02+09:00"
-draft = true
+date = "2018-07-23T19:52:00+09:00"
 categories = ["Network"]
 tags = ["unbound", "dnssec", "dns", "tls", "resolver", "cache", "freebsd"]
 +++
@@ -266,11 +265,3 @@ options     edns0
 1. トラストアンカーとは, https://www.nic.ad.jp/ja/basics/terms/trust-anchor.html
 1. RFC 5011, Automated Updates of DNS Security (DNSSEC) Trust Anchors, https://tools.ietf.org/html/rfc5011
 1. DNS over TLS - Public DNS Servers, https://en.wikipedia.org/wiki/DNS_over_TLS#DNS_over_TLS_-_Public_DNS_Servers
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODA2ODIyMiwtMTQ1NjQ4MTkwLC0xNj
-E1Njk3NjIyLC02ODg5Mjk2ODcsLTEwMDc1MTU5NzMsLTE1MTEw
-MjIwNzEsMTY1NDE0NDIwMiwtMTY5NzM2OTQ4NSwtMjA2NjE4Mz
-AwMCwtMTAwNjUzNjk4Niw5MDQxMDY4NjMsLTE5MzMyMTY2MDcs
-LTY1NjMyNjI4NiwtMzUzNjcxNzMyXX0=
--->
