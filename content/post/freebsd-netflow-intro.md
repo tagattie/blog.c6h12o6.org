@@ -1,7 +1,6 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(まえがき)"
-date = "2018-07-30T17:13:55+09:00"
-draft = true
+date = "2018-07-30T20:30:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "munin"]
 +++
