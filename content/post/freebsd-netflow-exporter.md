@@ -1,7 +1,6 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(Flow Exporter編)"
-date = "2018-07-30T20:38:31+09:00"
-draft = true
+date = "2018-08-02T20:56:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "statistics", "export", "netgraph"]
 +++
@@ -173,9 +172,3 @@ sysrc ng_netflow_collect_port=XXXX       # デフォルト(4444)以外を使用�
 1. All About Netgraph, https://people.freebsd.org/~julian/netgraph.html
 1. CONFIGURE IN KERNEL NETFLOW EXPORT WITH netgraph(4), https://forums.freebsd.org/threads/howto-monitor-network-traffic-with-netflow-nfdump-nfsen-on-freebsd.49724/#post-277772
 1. NetFlow v9 Exporting from FreeBSD routers/firewalls, https://www.dan.me.uk/blog/2016/06/01/netflow-v9-exporting-from-freebsd-routersfirewalls/
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTkxNjMzLDU1MzA3NzQ3Niw5MDU2Mz
-c4MTMsLTE1NjI0NDkyOTksMTUyNjk3MDkwNyw5MzE0MzU3NTQs
-NzgyMTQwMDQwXX0=
--->
