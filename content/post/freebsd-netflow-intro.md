@@ -1,6 +1,7 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(まえがき)"
 date = "2018-07-30T20:30:00+09:00"
+lastmod = "2018-08-02T20:55:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "munin"]
 +++
@@ -39,7 +40,7 @@ NetFlowを用いたトラフィック監視のアーキテクチャ(というほ
 
 ![FreeBSD - Netflow監視 - アーキテクチャ](/img/freebsd/freebsd-netflow-monitoring.png)
 
-すっかり前置きが長くなってしまいました。次回の記事では、まずFreeBSDマシンにおいてNetFlowデータを生成し、フローコレクタに対して送信するところまでを説明します。
+すっかり前置きが長くなってしまいました。[次回の記事](/post/freebsd-netflow-exporter/)では、まずFreeBSDマシンにおいてNetFlowデータを生成し、フローコレクタに対して送信するところまでを説明します。
 
 ### 参考文献
 1. Munin, http://munin-monitoring.org/
