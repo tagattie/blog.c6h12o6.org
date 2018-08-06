@@ -1,6 +1,7 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(Flow Exporter編)"
 date = "2018-08-02T20:56:00+09:00"
+lastmod = "2018-08-06T18:58:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "statistics", "export", "netgraph"]
 +++
@@ -166,7 +167,7 @@ sysrc ng_netflow_collect_port=XXXX       # デフォルト(4444)以外を使用�
 
 あとはFreeBSDを再起動するか、`service ng_netflow start`を実行すればOKです。
 
-次回の記事では、NetFlowデータを受信し、結果を可視化する手順について説明します。
+[次回の記事](/post/freebsd-netflow-collector/)では、NetFlowデータを受信し蓄積するFlow Collectorの設定手順について説明します。
 
 ### 参考文献
 1. All About Netgraph, https://people.freebsd.org/~julian/netgraph.html
