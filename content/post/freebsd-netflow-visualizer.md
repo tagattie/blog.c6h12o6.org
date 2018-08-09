@@ -1,7 +1,6 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(Flow Visualizer編)"
-date = "2018-08-06T13:01:39+09:00"
-draft = true
+date = "2018-08-09T19:39:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "statistics", "visualization", "nfsen"]
 +++
