@@ -1,6 +1,7 @@
 +++
 title = "NetFlowを用いてFreeBSDマシンのトラフィックを可視化する(Flow Collector編)"
 date = "2018-08-06T18:56:00+09:00"
+lastmod = "2018-08-09T19:40:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "netflow", "network", "traffic", "monitor", "statistics", "collect", "nfdump", "nfsen"]
 +++
@@ -188,7 +189,7 @@ Sys: 0.187s flows/second: 1659585.6  Wall: 3.183s flows/second: 97531.8
 
 以上で、NetFlow collectorの設定と動作確認は完了です。
 
-次回の記事では、蓄積したNetFlowデータを可視化するNetFlow visualizerについて説明します。
+[次回の記事](/post/freebsd-netflow-visualizer/)では、蓄積したNetFlowデータを可視化するNetFlow visualizerについて説明します。
 
 ### 参考文献
 1. The Elastic Stack, https://www.elastic.co/products
