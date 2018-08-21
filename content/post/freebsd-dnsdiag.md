@@ -1,7 +1,6 @@
 +++
 title = "DNSPingでDNSサーバの応答時間を計測する"
-date = "2018-08-21T10:47:06+09:00"
-draft = true
+date = "2018-08-21T19:03:00+09:00"
 categories = ["Network"]
 tags = ["dns", "performance", "response", "dnsping", "dnsdiag", "freebsd"]
 +++
