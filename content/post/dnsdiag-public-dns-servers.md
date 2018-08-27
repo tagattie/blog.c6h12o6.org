@@ -1,7 +1,6 @@
 +++
 title = "パブリックDNSサーバの応答時間を計測する"
-date = "2018-08-22T13:49:58+09:00"
-draft = true
+date = "2018-08-27T20:18:00+09:00"
 categories = ["Network"]
 tags = ["dns", "performance", "response", "dnsdiag", "dnseval"]
 +++
