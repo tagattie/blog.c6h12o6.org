@@ -1,6 +1,7 @@
 +++
 title = "DNSPingでDNSサーバの応答時間を計測する"
 date = "2018-08-21T19:03:00+09:00"
+lastmod = "2018-08-27T20:19:00+09:00"
 categories = ["Network"]
 tags = ["dns", "performance", "response", "dnsping", "dnsdiag", "freebsd"]
 +++
@@ -90,7 +91,7 @@ min=0.945 ms, avg=45.579 ms, max=445.779 ms, stddev=140.616 ms
 
 こうなると、家庭内ネットワーク向けキャッシュDNSサーバを用意してこれを用いるのがよいのか、それとも世界最速を謳うパブリックDNSサーバである1.1.1.1 (Cloudflare社とAPNICが共同提供)、あるいはGoogle社などのパブリックDNSサーバを直接使うほうがよいのか、そういうことが気になってきます。
 
-次回の記事では、この疑問を解決すべく(?)、今回インストールしたDNSDiagパッケージに含まれる`dnseval`コマンドを用いて、いくつかのパブリックDNSサーバの応答時間を計測してみたいと思います。
+[次回の記事](/post/dnsdiag-public-dns-servers/)では、この疑問を解決すべく(?)、今回インストールしたDNSDiagパッケージに含まれる`dnseval`コマンドを用いて、いくつかのパブリックDNSサーバの応答時間を計測してみたいと思います。
 
 ### 参考文献
 1. Advanced Ping: httping, dnsping, smtpping, https://blog.webernetz.net/advanced-ping-httping-dnsping-smtpping/
