@@ -1,7 +1,6 @@
 +++
 title = "USBTopでUSBデバイスのアクセス速度を監視する(いろんなtop系コマンドを使ってみる その1)"
-date = "2018-08-31T18:04:03+09:00"
-draft = true
+date = "2018-09-01T19:46:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "top", "usbtop"]
 +++
