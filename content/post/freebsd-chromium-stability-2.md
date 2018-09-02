@@ -1,7 +1,6 @@
 +++
 title = "FreeBSDでのChromium (Chrome)タブハングアップ問題が解決"
-date = "2018-09-02T20:05:31+09:00"
-draft = true
+date = "2018-09-02T21:45:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "chromium", "chrome", "browser", "hang", "stability"]
 +++
