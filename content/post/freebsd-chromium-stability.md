@@ -1,9 +1,15 @@
 +++
 title = "FreeBSDでChromium (Chrome)をできるだけ安定して使う"
 date = "2018-05-11T20:27:00+09:00"
+lastmod = "2018-09-03T07:24:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "chromium", "chrome", "browser", "hang", "stability"]
 +++
+
+**追記: 2018/9/3**  
+Chromiumのタブがハングする問題が解決されました。くわしくは[こちらの記事](/post/freebsd-chromium-stability-2/)をご参照ください。
+
+___
 
 FreeBSDユーザのみなさん、Webブラウザには何をお使いですか? Chromium (Chrome)? Firefox? あるいはOperaをお使いですか? わたしはというと、メインブラウザにChromium、サブにFirefoxを使っているのですが、ここのところChromiumの動作が安定しない問題に悩まされています。
 
