@@ -1,7 +1,6 @@
 +++
 title = "DNSTopでDNSクエリおよびレスポンスを監視する(いろんなTop系コマンドを使ってみる その2)"
-date = "2018-09-03T17:08:55+09:00"
-draft = true
+date = "2018-09-04T19:27:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "top", "dnstop"]
 +++
