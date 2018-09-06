@@ -1,7 +1,6 @@
 +++
 title = "PFTopでファイアウォールのステータスを監視する(いろんなTop系コマンドを使ってみる その3)"
-date = "2018-09-05T17:05:50+09:00"
-draft = true
+date = "2018-09-06T19:54:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "top", "pftop", "pf", "firewall"]
 +++
