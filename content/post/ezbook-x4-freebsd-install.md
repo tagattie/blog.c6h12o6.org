@@ -1,7 +1,6 @@
 +++
 title = "Jumper EZbook X4にFreeBSD 11.2-RELEASEをカスタムインストールする(本編)"
-date = "2018-09-08T18:05:44+09:00"
-draft = true
+date = "2018-09-11T21:04:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "jumper", "ezbook", "install"]
 +++
