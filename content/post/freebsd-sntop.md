@@ -1,7 +1,6 @@
 +++
 title = "SNTopでホストの生死状況を監視する(いろんなTop系コマンドを使ってみる その4)"
-date = "2018-09-12T13:04:43+09:00"
-draft = true
+date = "2018-09-13T19:44:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "top", "sntop"]
 +++
