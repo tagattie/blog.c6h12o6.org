@@ -1,7 +1,6 @@
 +++
 title = "IFTopでホストのネットワーク通信状況を監視する(いろんなTop系コマンドを使ってみる その5)"
-date = "2018-09-16T15:39:05+09:00"
-draft = true
+date = "2018-09-18T19:27:00+09:00"
 categories = ["FreeBSD"]
 tags = ["freebsd", "top", "iftop"]
 +++
