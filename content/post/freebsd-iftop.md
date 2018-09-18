@@ -39,7 +39,7 @@ iftop -nN
 
 本画面はかなり盛りだくさんですので、ひとつずつ表示内容を見ていきたいと思います。
 
-![FreeBSD - iftop - メイン](/img/drafts/sntop-main.png)
+![FreeBSD - iftop - メイン](/img/freebsd/sntop-main.png)
 
 画面の最上部には、通信速度を示す目盛が表示されています。この目盛の用途については後ほど説明します。
 
@@ -57,20 +57,20 @@ iftop -nN
 - `S` - ソースポートの表示・非表示切り替え
 - `D` - デスティネーションポートの表示・非表示切り替え
 
-![FreeBSD - iftop -  ポート番号表示](/img/drafts/sntop-port-display.png)
+![FreeBSD - iftop -  ポート番号表示](/img/freebsd/sntop-port-display.png)
 
 次に、IPアドレスの表示・非表示の切り替えです。(下図ではソースおよびデスティネーションアドレスを両方とも非表示。)
 
 - `s` - ソースアドレスの表示・非表示切り替え
 - `d` - デスティネーションアドレスの表示・非表示切り替え
 
-![FreeBSD - iftop - アドレス非表示](/img/drafts/sntop-host-hide.png). 
+![FreeBSD - iftop - アドレス非表示](/img/freebsd/sntop-host-hide.png). 
 
 今度は、ソースとデスティネーションの組の表示切り替えです。デフォルトでは、ソースとデスティネーションの組ごとに送受信それぞれ一行の計二行で表示します。`t`キーで本表示を切り替えられます。キーを押下するごとに、送受信をまとめて一行表示、送信のみ表示の一行表示、受信のみ表示の一行表示、およびデフォルトの二行表示を切り替えられます。
 
 下図では送受信をまとめて一行に表示しています。
 
-![FreeeBSD - iftop - SD組一行表示](/img/drafts/sntop-host-line.png). 
+![FreeeBSD - iftop - SD組一行表示](/img/freebsd/sntop-host-line.png). 
 
 その他にも以下のようなキーバインドがあります。詳しくは、`h`あるいは`?`で表示されるキーバインド一覧を参照してください。
 
