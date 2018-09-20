@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6にAndroid 9 Pieをインストールする - まえがき"
-date = "2018-09-19T10:44:04+09:00"
-draft = true
+date = "2018-09-20T19:11:00+09:00"
 categories = ["Android"]
 tags = ["android", "pie", "nexus6"]
 +++
