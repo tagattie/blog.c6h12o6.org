@@ -1,7 +1,6 @@
 +++
 title = "Nexus 6にAndroid 9 Pieをインストールする - 本編"
-date = "2018-09-21T09:34:24+09:00"
-draft = true
+date = "2018-09-25T19:53:00+09:00"
 categories = ["Android"]
 tags = ["android", "pie", "nexus6", "carbonrom", "nitrogenos"]
 +++
