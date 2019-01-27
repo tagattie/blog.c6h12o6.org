@@ -1,7 +1,6 @@
 +++
 title = "Jumper EZbook X4にChromium OSをインストールする(不具合調査編)"
-date = "2019-01-18T14:19:47+09:00"
-draft = true
+date = "2019-01-27T17:26:00+09:00"
 categories = ["ChromiumOS"]
 tags = ["chromiumos", "jumper", "ezbook", "install"]
 +++
