@@ -1,8 +1,9 @@
 +++
 title = "Jumper EZbook X4にChromium OSをインストールする(不具合調査編)"
 date = "2019-01-27T17:26:00+09:00"
+lastmod = "2019-02-05T19:18:00+09:00"
 categories = ["ChromiumOS"]
-tags = ["chromiumos", "jumper", "ezbook", "install"]
+tags = ["chromiumos", "jumper", "ezbook", "gemini-lake", "install"]
 +++
 
 先日、といってももう2018年8月のことですが、[Jumper Computer Technology社](http://www.jumper.com.cn/)のEZbook X4というラップトップを[購入しました](/post/ezbook-x4-freebsd-intro/)。愛用していたNEC LaVie Zのバッテリ持ちがかなり悪くなってしまったので、その代替機という位置づけです。
@@ -56,7 +57,7 @@ EZbook X4はChromebookではありませんので、Intel/AMD 64bit CPU搭載機
 
 本問題への対応は、「必要なバイナリ・ブロブがインストールされるようビルド時に指定を追加する」ことです。具体的な指定内容については次回記事で述べます。
 
-以上、EZbook X4でChromium OSが起動しなかった原因が判明しました。次回記事では、本調査結果をふまえたビルド手順、およびインストール手順を説明します。
+以上、EZbook X4でChromium OSが起動しなかった原因が判明しました。[次回記事](/post/ezbook-x4-chromiumos-install/)では、本調査結果をふまえたビルド手順、およびインストール手順を説明します。
 
 ### 参考文献
 1. GNU GRUB, https://www.gnu.org/software/grub/
