@@ -1,9 +1,8 @@
 ---
 title: "How to port an Electron-based application to FreeBSD"
-date: 2020-02-27T14:25:47+09:00
+date: 2020-03-03T20:17:00+09:00
 categories: ["FreeBSD"]
 tags: ["freebsd", "ports", "electron"]
-draft: true
 ---
 
 [Electron](https://www.electronjs.org) is a popular framework for developing desktop applications using web technologies like HTML, CSS, and JavaScript. There are many applications (including both open source and closed source) built on top of Electron and some of them can be found at the following websites:
